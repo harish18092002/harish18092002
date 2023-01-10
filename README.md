@@ -1,6 +1,8 @@
 
 <div  align="center" > 
+  <h1>
 <a href="https://git.io/typing-svg"   ><img  align="center"  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=12F7DE&width=435&lines=Hello+there!+My+name+is+Harish.+%F0%9F%91%8B%F0%9F%A4%93" alt="Typing SVG" /></a>
+  </h1>
 </div>
 
 <p align="center">I'm currently a student pursuing my Bachelor of Technology in Information Technology from SRM Easwari Engineering College, Chennai :student:. I'm passionate about areas of Software Developing . You can also find me interested in Ethical using Kali Linux .I've started exploring the field of Cyber Security as well ✨ and hope to contribute to that field as well. 
