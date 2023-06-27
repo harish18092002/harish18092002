@@ -61,11 +61,13 @@ ______________________________________
 ### :fire: My GitHub Stats :
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=harish18092002&theme=radical)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=harish18092002&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harish18092002&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harish18092002&layout=compact)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=harish18092002&show_icons=true&theme=radical)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=harish18092002)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=harish18092002)
+
+![Harish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=harish18092002&theme=github-compact)
 
