@@ -46,7 +46,7 @@
     <img src="https://img.shields.io/badge/Linktree-success?logo=linktree&logoColor=white&style=for-the-badge" alt="LinkTree Badge"/>
   </a>
   
-  <a href="https://linktr.ee/harish_182002">
+  <a href="https://mail.google.com/mail/?view=cm&to=harish18092002@gmail.com">
     <img src="https://img.shields.io/badge/Mail-red?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail Badge"/>
   </a>
   
