@@ -9,7 +9,7 @@
 </p>
 
 **************************************************************
-### :hammer_and_wrench: Languages and Frameworks :
+### ⚒️  Languages and Frameworks :
 
 <div align="center">
 	<table>
@@ -84,7 +84,7 @@
 
 
 ______________________________________
-### :fire: My GitHub Stats :
+### 🔥 My GitHub Stats :
 
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=harish18092002&theme=radical)
