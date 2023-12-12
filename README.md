@@ -5,8 +5,10 @@
   </h1>
 </div>
 
-<p align="center">I'm currently a student pursuing my Bachelor of Technology in Information Technology from SRM Easwari Engineering College, Chennai :student:. I'm passionate about areas of Software Developing . You can also find me interested in Ethical using Kali Linux .I've started exploring the field of Cyber Security as well ✨ and hope to contribute to that field as well. 
-</p>
+- 👨‍🎓 Currently, I'm on an exciting journey pursuing my Final Year Bachelor of Technology in Information Technology at SRM Easwari Engineering College.
+- 💻 My passion lies in the realms of Software Development, where I thrive on creating innovative solutions and exploring new technologies.
+- 🔒 Additionally, I've delved into the world of Ethical Hacking using Kali Linux. The thrill of understanding and securing systems drives my interest in Cyber Security. 💻✨
+- 🌐 My goal is to contribute meaningfully to the ever-evolving field of Technology, leveraging my skills and knowledge to make a positive impact. Exciting times ahead! 🚀
 
 **************************************************************
 ### ⚒️  Languages and Frameworks :
