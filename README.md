@@ -5,13 +5,15 @@
   </h1>
 </div>
 
-- 👨‍🎓 Currently, I'm on an exciting journey pursuing my Final Year Bachelor of Technology in Information Technology at SRM Easwari Engineering College.
-- 💻 My passion lies in the realms of Software Development, where I thrive on creating innovative solutions and exploring new technologies.
-- 🔒 Additionally, I've delved into the world of Ethical Hacking using Kali Linux. The thrill of understanding and securing systems drives my interest in Cyber Security. 💻✨
-- 🌐 My goal is to contribute meaningfully to the ever-evolving field of Technology, leveraging my skills and knowledge to make a positive impact. Exciting times ahead! 🚀
+<p align="center">
+   👨‍🎓 Currently, I'm on an exciting journey pursuing my Final Year Bachelor of Technology in Information Technology at SRM Easwari Engineering College.
+  💻 My passion lies in the realms of Software Development, where I thrive on creating innovative solutions and exploring new technologies.
+  🔒 Additionally, I've delved into the world of Ethical Hacking using Kali Linux. The thrill of understanding and securing systems drives my interest in Cyber Security. 💻✨
+  🌐 My goal is to contribute meaningfully to the ever-evolving field of Technology, leveraging my skills and knowledge to make a positive impact. Exciting times ahead! 🚀
+</p>
+<hr>
 
-**************************************************************
-### ⚒️  Languages and Frameworks :
+ ⚒️  Languages and Frameworks :
 
 <div align="center">
 	<table>
