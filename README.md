@@ -12,7 +12,6 @@
   🌐 My goal is to contribute meaningfully to the ever-evolving field of Technology, leveraging my skills and knowledge to make a positive impact. Exciting times ahead!🚀
 </p>
 <hr>
-
  ⚒️  Languages and Frameworks :
 
 <div align="center">
