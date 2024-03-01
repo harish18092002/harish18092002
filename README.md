@@ -1,4 +1,3 @@
-
 <div  align="center" > 
   <h1>
 <a href="https://git.io/typing-svg"   ><img  align="center"  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=12F7DE&width=435&lines=Hello+there!+My+name+is+Harish.+%F0%9F%91%8B%F0%9F%A4%93" alt="Typing SVG" /></a>
@@ -13,13 +12,14 @@
 </p>
 <hr>
 
- ⚒️  Languages and Frameworks :
+⚒️ Languages and Frameworks :
 
 <div align="center">
 	<table>
 		<tr>
 			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" alt="HTTP" title="HTTP"/></td>
 			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></td>
+			<td><img width="50" src="../img/gsap-greensock.svg" alt="GSAP" title="GSAP"/></td>
 			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" alt="InteliJ" title="InteliJ"/></td>
 			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png" alt="Android Studio" title="Android Studio"/></td>
 			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/></td>
@@ -63,9 +63,9 @@
 	</table>
 </div>
 
-*********************************************
-### 📫 How to reach me: 
+---
 
+### 📫 How to reach me:
 
 <div id="badges" align='center'>
   <a href="https://www.linkedin.com/in/harish-a-965320214">
@@ -84,12 +84,9 @@
   ![](https://komarev.com/ghpvc/?username=harish18092002&color=green)
   </div>
 
+---
 
-
-
-______________________________________
 ### 🔥 My GitHub Stats :
-
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=harish18092002&theme=radical)
 
@@ -100,4 +97,3 @@ ______________________________________
 ![trophy](https://github-profile-trophy.vercel.app/?username=harish18092002)
 
 ![Harish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=harish18092002&theme=github-compact)
-
