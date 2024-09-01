@@ -99,7 +99,7 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=harish18092002)
 
-<img src="https://raw.githubusercontent.com/harish18092002/harish18092002/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/harish18092002/harish18092002/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 ![Harish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=harish18092002&theme=github-compact)
 
