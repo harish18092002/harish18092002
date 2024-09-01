@@ -5,11 +5,12 @@
 </div>
 
 <p align="center">
-   👨‍🎓 Currently, I'm on an exciting journey pursuing my Final Year Bachelor of Technology in Information Technology at SRM Easwari Engineering College.
-  💻 My passion lies in the realms of Software Development, where I thrive on creating innovative solutions and exploring new technologies.
-  🔒 Additionally, I've delved into the world of Ethical Hacking using Kali Linux. The thrill of understanding and securing systems drives my interest in Cyber Security. 
+  👨‍🎓 I have completed my Bachelor of Technology in Information Technology from SRM Easwari Engineering College.<br>
+  💻 Currently, I am working as a Backend Developer at <a href="https://www.surfboardpayments.com/" target="_blank" style="text-decoration: none;">Surfboard Payments</a>, a Sweden-based fintech company.<br>
+  🔒 My passion lies in Software Development, where I thrive on creating innovative solutions and exploring new technologies. I've also delved into Ethical Hacking using Kali Linux, driven by a keen interest in Cyber Security and system protection.<br>
   🌐 My goal is to contribute meaningfully to the ever-evolving field of Technology, leveraging my skills and knowledge to make a positive impact. Exciting times ahead!! 🚀
 </p>
+
 <hr>
 
 ⚒️ Languages and Frameworks :
