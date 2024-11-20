@@ -11,7 +11,6 @@
   🔒 My passion lies in Software Development, where I thrive on creating innovative solutions and exploring new technologies. I've also delved into Ethical Hacking using Kali Linux, driven by a keen interest in Cyber Security and system protection.<br>
   🌐 My goal is to contribute meaningfully to the ever-evolving field of Technology, leveraging my skills and knowledge to make a positive impact. Exciting times ahead!! 🚀
 </p>
-
 <hr>
 
 ⚒️ Languages and Frameworks :
