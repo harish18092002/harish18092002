@@ -57,7 +57,6 @@
 
 ---
 
-
 ### 📫 How to reach me:
 
 <div id="badges" align='center'>
