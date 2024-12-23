@@ -54,7 +54,6 @@
 	<td><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/519bfaf3-c242-431e-a269-876979f05574" alt="Nest.js" title="Nest.js"/></td>
     </tr>
 </table>
-
 </div>
 
 ---
