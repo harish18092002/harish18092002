@@ -12,8 +12,6 @@
 </p>
 <hr>
 
-
-
 ### ⚒️ Languages and Frameworks :
 
 <div align="center">
