@@ -14,7 +14,6 @@
 
 ### ⚒️ Languages and Frameworks :
 
-
 <div align="center">
 	<table>
     <tr>
