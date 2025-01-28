@@ -5,6 +5,7 @@
 </div>
 
 
+
 <p align="center">
   👨‍🎓 I have completed my Bachelor of Technology in Information Technology from SRM Easwari Engineering College.<br>
   💻 Currently, I am working as a Backend Developer at <a href="https://www.surfboardpayments.com/" target="_blank" style="text-decoration: none;">Surfboard Payments</a>, a Sweden-based fintech company.<br>
