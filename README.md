@@ -5,10 +5,7 @@
 </div>
 
 <p align="center">
-  👨‍🎓 I have completed my Bachelor of Technology in Information Technology from SRM Easwari Engineering College.<br>
-  💻 Currently, I am working as a Backend Developer at <a href="https://www.surfboardpayments.com/" target="_blank" style="text-decoration: none;">Surfboard Payments</a>, a Sweden-based fintech company.<br>
-  🔒 My passion lies in Software Development, where I thrive on creating innovative solutions and exploring new technologies. I've also delved into Ethical Hacking using Kali Linux, driven by a keen interest in Cyber Security and system protection.<br>
-  🌐 My goal is to contribute meaningfully to the ever-evolving field of Technology, leveraging my skills and knowledge to make a positive impact. Exciting times ahead!! 🚀
+ Backend-oriented full-stack developer with production experience in fintech, currently working on scalable payment systems at Surfboard Payments. I specialize in microservices, backend performance optimization, and distributed systems using TypeScript, NestJS, PostgreSQL, Redis, and cloud technologies. Passionate about system design, reliability, and building software that performs at real-world scale.
 </p>
 <hr>
 
@@ -80,12 +77,6 @@
 ### 🔥 My GitHub Stats :
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=harish18092002&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harish18092002&layout=compact)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=harish18092002&show_icons=true&theme=radical)
-
-![trophy](https://github-profile-trophy.vercel.app/?username=harish18092002)
 
 <img src="https://raw.githubusercontent.com/harish18092002/harish18092002/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
